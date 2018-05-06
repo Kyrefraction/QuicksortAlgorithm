@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuickSortAlgorithm
 {
-    class Program
+    class QuickSort  
     {
         static void Main(string[] args)
         {
