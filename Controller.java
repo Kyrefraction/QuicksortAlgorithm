@@ -1,4 +1,4 @@
-// This has to be done a bit differently to the C# implementation, as Java has no passing my Reference
+// This has to be done a bit differently to the C# implementation, as Java has no passing by Reference
 public class Controller <T extends Comparable<T>> {
 	
     static Comparable[] unsortedInts = { 10, 2, 1, 4, 3, 6, 8, 7 }; // make the array of ints
